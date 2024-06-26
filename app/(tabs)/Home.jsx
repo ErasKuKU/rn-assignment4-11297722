@@ -1,7 +1,7 @@
 import { View, Text, StyleSheet, SafeAreaView, StatusBar} from 'react-native'
 import React from 'react'
 
-const Index = () => {
+const Home = () => {
   return (
     <SafeAreaView>
       <StatusBar />
@@ -11,7 +11,7 @@ const Index = () => {
   )
 }
 
-export default Index
+export default Home
 
 
 

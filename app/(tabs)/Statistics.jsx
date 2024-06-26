@@ -1,12 +1,13 @@
 import { Text, View } from 'react-native'
 import React, { Component } from 'react'
 
-export default class Profile extends Component {
-  render() {
+const Statistics = ()=>{
     return (
       <View>
-        <Text>Profile</Text>
+        <Text>Stat</Text>
       </View>
     )
   }
-}
+
+
+export default Statistics
