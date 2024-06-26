@@ -5,6 +5,13 @@ const MyCards = ()=>{
     return (
       <View>
         <Text>About</Text>
+        
+
+     
+
+      <View>  <Image   source={require('../../assets/topUp.png')}
+          style={styles.topUp}/>
+      </View>
       </View>
     )
   }
